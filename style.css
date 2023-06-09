@@ -1,0 +1,34 @@
+body
+{
+    background-image: url('background.jpg');
+    background-repeat:round;
+    background-size: 1010px, 100px;
+    font-family: 'Lilita One', cursive;
+    color: white;
+    text-shadow: 1px 1px 5px white;
+    font-size: 20px;
+}
+
+#score{
+    text-align: center;
+    background-color: blueviolet;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    float: left;
+    margin-left: 50px;
+}
+
+#timer{
+    text-align: center;
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 50px;
+}
+
+mark{
+    border-radius: 5px;
+}
